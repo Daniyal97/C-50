@@ -1,0 +1,30 @@
+      
+            p{
+                color:darkmagenta
+            }
+            h1{
+                color:blueviolet
+            }
+
+            *{
+                border:transparent
+            }
+        .header{
+            color: pink;
+            background-color: pink;
+            display:flex;
+            justify-content: space-between;
+        }
+        .grid{
+            display: flex;
+            justify-content: space-evenly;
+        }
+        .footer{
+            background-color: blueviolet;
+            display: flex;
+            justify-content: flex-end;
+        }
+        
+        p,h2{
+            text-align: center;
+        }
